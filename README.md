@@ -1,4 +1,4 @@
-First CS for Social Good Workshop : Intro to React
+Second CS for Social Good Workshop : Intro to React
 
 In this workshop, we will be going over an introduction to React and building a to-do app. Some of the concepts include component, props, state, JSX, ES6 and more..
 
