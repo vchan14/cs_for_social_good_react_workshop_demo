@@ -13,6 +13,8 @@ Resources:
 1. To-do App Tutorial from Traversy Media : https://www.youtube.com/watch?v=sBws8MSXN7A&t=4272s
 2. Scrimba ReactTutorial: https://scrimba.com/g/glearnreact
 
+Setting up the workspace for this React Project: 
+
 1. Install Node JS https://nodejs.org/en/
 2. Install "ES7 React/Redux/GraphQL/React-Native snippets" extension on VS code
 3. Create a starter React App : npx create-react-app todo
@@ -22,4 +24,3 @@ Resources:
 
 Please feel free to reach out to us via Facebook page if you have questions about this workshop.
 
-Setting up the workspace for this React Project: 
